@@ -1,0 +1,22 @@
+body {
+  color: #fff;
+  text-align: center;
+}
+
+#top-navbar {
+    background-color: white;
+    padding: 20px 0px 20px 0px;
+    margin: 0;
+}
+
+#featured-service {
+    height: 400px;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 2), screen and (max--moz-device-pixel-ratio: 2) {
+#brand-logo {
+    background: url(datil-logo-2x.png) no-repeat;
+    background-size: 255px 120px;
+    height: 255px;
+    width: 120px;
+}
